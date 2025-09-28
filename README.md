@@ -17,12 +17,6 @@ This repository hosts the Jupyter/Colab notebooks for the MAIL 557 AI Literacy C
 - By using these notebooks, you agree to uphold the principle of “all for the common good.”
 
 
-### This repository reflects UST’s commitment to advancing education, innovation, and ethical AI adoption.
-- Share knowledge openly.
-- Collaborate responsibly.
-- Ensure that leadership in AI serves people, communities, and society at large.
-
-
 ### Technical Requirements
 - Python 3.10+
 - Jupyter or Google Colab
@@ -40,8 +34,8 @@ Contributions are welcome from faculty, students, and the wider AI leadership co
 
 ### Contact
 For questions about course content or permissions, please contact:
-AI Leadership Program, University of St. Thomas
-Email: moon2472@stthomas.edu
+Master's in AI Leadership Program, University of St. Thomas
+Or Email directly: moon2472@stthomas.edu
 
 © Copyright
 All course materials are © University of St. Thomas (UST).
